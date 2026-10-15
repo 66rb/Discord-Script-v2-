@@ -12,8 +12,8 @@ To use it, just clone the repo and run the script!
 
 ```bash
 
-git clone https://github.com/spookyorange/discord-linux-install.git
-cd discord-linux-install
+git clone https://github.com/66rb/discord-scripts-v2.git
+cd discord-scripts-v2
 sh ./install.sh
 
 ```
@@ -56,9 +56,9 @@ sh ./migrate.sh
 
 ### Tested Distros
 
-- Fedora by Spookyorange
-- Atomic Fedora(Silverblue) by Spookyorange
-- SteamOS(on Steam Deck) by Spookyorange
+- Fedora by Her0!n 
+- Atomic Fedora(Silverblue) by Her0!n
+- SteamOS(on Steam Deck) by Her0!n
 
 ### Contributing
 
