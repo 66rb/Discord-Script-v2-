@@ -59,7 +59,9 @@ sh ./migrate.sh
 - Fedora by Her0!n 
 - Atomic Fedora(Silverblue) by Her0!n
 - SteamOS(on Steam Deck) by Her0!n
-
+- Snap:@i4AaX
+- h-@HoTmaiL.CoM
+- @TeamError404
 ### Contributing
 
 If you have a distro that you would like to add to the list of tested distros, please submit a pull request with the changes you made to the script and the distro you tested it on.
